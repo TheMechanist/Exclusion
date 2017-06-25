@@ -1,9 +1,10 @@
 html {
   font-family: Verdana, sans-serif;
+  background-color: black;
+  text-align: center;
 }
 
 h1 {
-  text-align: center;
   font-size: 50px;
   font-weight: normal;
   color: white;
@@ -12,9 +13,20 @@ h1 {
 h2 {
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 
 .download {
   font-size: 16px;
   color: aquamarine;
+}
+
+.AppDetails {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
 }
